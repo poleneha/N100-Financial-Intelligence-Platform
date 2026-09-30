@@ -1,0 +1,13 @@
+Nifty 100 Sector Summary
+========================================
+
+Financials : 23 companies
+Energy : 14 companies
+Consumer Discretionary : 14 companies
+Industrials : 10 companies
+Materials : 9 companies
+Consumer Staples : 7 companies
+Healthcare : 6 companies
+Information Technology : 5 companies
+Communication Services : 2 companies
+Real Estate : 2 companies

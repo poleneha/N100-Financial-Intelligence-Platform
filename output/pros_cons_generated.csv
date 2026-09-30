@@ -1,0 +1,277 @@
+company_id,type,rule_id,text,confidence_pct
+ABB,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+ABB,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+ABB,con,CON10,Low return on equity indicates weak capital efficiency,70
+ADANIENSOL,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+ADANIENSOL,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+ADANIENSOL,con,CON10,Low return on equity indicates weak capital efficiency,70
+ADANIENT,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+ADANIENT,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+ADANIENT,con,CON10,Low return on equity indicates weak capital efficiency,70
+ADANIGREEN,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+ADANIGREEN,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+ADANIGREEN,con,CON10,Low return on equity indicates weak capital efficiency,70
+ADANIPORTS,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+ADANIPORTS,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+ADANIPORTS,con,CON10,Low return on equity indicates weak capital efficiency,70
+ADANIPOWER,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+ADANIPOWER,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+ADANIPOWER,con,CON10,Low return on equity indicates weak capital efficiency,70
+AMBUJACEM,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+AMBUJACEM,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+AMBUJACEM,con,CON10,Low return on equity indicates weak capital efficiency,70
+APOLLOHOSP,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+APOLLOHOSP,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+APOLLOHOSP,con,CON10,Low return on equity indicates weak capital efficiency,70
+ASIANPAINT,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+ASIANPAINT,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+ASIANPAINT,con,CON10,Low return on equity indicates weak capital efficiency,70
+AXISBANK,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+AXISBANK,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+AXISBANK,con,CON10,Low return on equity indicates weak capital efficiency,70
+BAJAJ-AUTO,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+BAJAJ-AUTO,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+BAJAJ-AUTO,con,CON10,Low return on equity indicates weak capital efficiency,70
+BAJAJFINSV,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+BAJAJFINSV,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+BAJAJFINSV,con,CON10,Low return on equity indicates weak capital efficiency,70
+BAJAJHLDNG,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+BAJAJHLDNG,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+BAJAJHLDNG,con,CON10,Low return on equity indicates weak capital efficiency,70
+BAJFINANCE,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+BAJFINANCE,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+BAJFINANCE,con,CON10,Low return on equity indicates weak capital efficiency,70
+BANKBARODA,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+BANKBARODA,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+BANKBARODA,con,CON10,Low return on equity indicates weak capital efficiency,70
+BEL,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+BEL,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+BEL,con,CON10,Low return on equity indicates weak capital efficiency,70
+BHARTIARTL,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+BHARTIARTL,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+BHARTIARTL,con,CON10,Low return on equity indicates weak capital efficiency,70
+BHEL,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+BHEL,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+BHEL,con,CON10,Low return on equity indicates weak capital efficiency,70
+BOSCHLTD,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+BOSCHLTD,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+BOSCHLTD,con,CON10,Low return on equity indicates weak capital efficiency,70
+BPCL,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+BPCL,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+BPCL,con,CON10,Low return on equity indicates weak capital efficiency,70
+BRITANNIA,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+BRITANNIA,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+BRITANNIA,con,CON10,Low return on equity indicates weak capital efficiency,70
+CANBK,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+CANBK,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+CANBK,con,CON10,Low return on equity indicates weak capital efficiency,70
+CHOLAFIN,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+CHOLAFIN,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+CHOLAFIN,con,CON10,Low return on equity indicates weak capital efficiency,70
+CIPLA,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+CIPLA,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+CIPLA,con,CON10,Low return on equity indicates weak capital efficiency,70
+COALINDIA,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+COALINDIA,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+COALINDIA,con,CON10,Low return on equity indicates weak capital efficiency,70
+DABUR,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+DABUR,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+DABUR,con,CON10,Low return on equity indicates weak capital efficiency,70
+DIVISLAB,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+DIVISLAB,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+DIVISLAB,con,CON10,Low return on equity indicates weak capital efficiency,70
+DLF,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+DLF,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+DLF,con,CON10,Low return on equity indicates weak capital efficiency,70
+DMART,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+DMART,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+DMART,con,CON10,Low return on equity indicates weak capital efficiency,70
+DRREDDY,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+DRREDDY,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+DRREDDY,con,CON10,Low return on equity indicates weak capital efficiency,70
+EICHERMOT,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+EICHERMOT,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+EICHERMOT,con,CON10,Low return on equity indicates weak capital efficiency,70
+GAIL,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+GAIL,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+GAIL,con,CON10,Low return on equity indicates weak capital efficiency,70
+GODREJCP,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+GODREJCP,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+GODREJCP,con,CON10,Low return on equity indicates weak capital efficiency,70
+GRASIM,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+GRASIM,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+GRASIM,con,CON10,Low return on equity indicates weak capital efficiency,70
+HAL,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+HAL,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+HAL,con,CON10,Low return on equity indicates weak capital efficiency,70
+HAVELLS,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+HAVELLS,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+HAVELLS,con,CON10,Low return on equity indicates weak capital efficiency,70
+HCLTECH,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+HCLTECH,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+HCLTECH,con,CON10,Low return on equity indicates weak capital efficiency,70
+HDFCBANK,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+HDFCBANK,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+HDFCBANK,con,CON10,Low return on equity indicates weak capital efficiency,70
+HDFCLIFE,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+HDFCLIFE,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+HDFCLIFE,con,CON10,Low return on equity indicates weak capital efficiency,70
+HEROMOTOCO,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+HEROMOTOCO,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+HEROMOTOCO,con,CON10,Low return on equity indicates weak capital efficiency,70
+HINDALCO,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+HINDALCO,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+HINDALCO,con,CON10,Low return on equity indicates weak capital efficiency,70
+HINDUNILVR,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+HINDUNILVR,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+HINDUNILVR,con,CON10,Low return on equity indicates weak capital efficiency,70
+ICICIBANK,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+ICICIBANK,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+ICICIBANK,con,CON10,Low return on equity indicates weak capital efficiency,70
+ICICIGI,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+ICICIGI,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+ICICIGI,con,CON10,Low return on equity indicates weak capital efficiency,70
+ICICIPRULI,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+ICICIPRULI,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+ICICIPRULI,con,CON10,Low return on equity indicates weak capital efficiency,70
+INDIGO,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+INDIGO,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+INDIGO,con,CON10,Low return on equity indicates weak capital efficiency,70
+INDUSINDBK,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+INDUSINDBK,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+INDUSINDBK,con,CON10,Low return on equity indicates weak capital efficiency,70
+INFY,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+INFY,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+INFY,con,CON10,Low return on equity indicates weak capital efficiency,70
+IOC,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+IOC,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+IOC,con,CON10,Low return on equity indicates weak capital efficiency,70
+IRCTC,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+IRCTC,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+IRCTC,con,CON10,Low return on equity indicates weak capital efficiency,70
+IRFC,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+IRFC,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+IRFC,con,CON10,Low return on equity indicates weak capital efficiency,70
+ITC,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+ITC,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+ITC,con,CON10,Low return on equity indicates weak capital efficiency,70
+JINDALSTEL,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+JINDALSTEL,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+JINDALSTEL,con,CON10,Low return on equity indicates weak capital efficiency,70
+JIOFIN,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+JIOFIN,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+JIOFIN,con,CON10,Low return on equity indicates weak capital efficiency,70
+JSWENERGY,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+JSWENERGY,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+JSWENERGY,con,CON10,Low return on equity indicates weak capital efficiency,70
+JSWSTEEL,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+JSWSTEEL,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+JSWSTEEL,con,CON10,Low return on equity indicates weak capital efficiency,70
+KOTAKBANK,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+KOTAKBANK,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+KOTAKBANK,con,CON10,Low return on equity indicates weak capital efficiency,70
+LICI,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+LICI,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+LICI,con,CON10,Low return on equity indicates weak capital efficiency,70
+LODHA,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+LODHA,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+LODHA,con,CON10,Low return on equity indicates weak capital efficiency,70
+LT,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+LT,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+LT,con,CON10,Low return on equity indicates weak capital efficiency,70
+LTIM,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+LTIM,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+LTIM,con,CON10,Low return on equity indicates weak capital efficiency,70
+M&M,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+M&M,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+M&M,con,CON10,Low return on equity indicates weak capital efficiency,70
+MARUTI,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+MARUTI,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+MARUTI,con,CON10,Low return on equity indicates weak capital efficiency,70
+MOTHERSON,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+MOTHERSON,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+MOTHERSON,con,CON10,Low return on equity indicates weak capital efficiency,70
+NAUKRI,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+NAUKRI,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+NAUKRI,con,CON10,Low return on equity indicates weak capital efficiency,70
+NESTLEIND,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+NESTLEIND,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+NESTLEIND,con,CON10,Low return on equity indicates weak capital efficiency,70
+NHPC,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+NHPC,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+NHPC,con,CON10,Low return on equity indicates weak capital efficiency,70
+NTPC,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+NTPC,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+NTPC,con,CON10,Low return on equity indicates weak capital efficiency,70
+ONGC,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+ONGC,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+ONGC,con,CON10,Low return on equity indicates weak capital efficiency,70
+PFC,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+PFC,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+PFC,con,CON10,Low return on equity indicates weak capital efficiency,70
+PIDILITIND,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+PIDILITIND,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+PIDILITIND,con,CON10,Low return on equity indicates weak capital efficiency,70
+PNB,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+PNB,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+PNB,con,CON10,Low return on equity indicates weak capital efficiency,70
+POWERGRID,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+POWERGRID,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+POWERGRID,con,CON10,Low return on equity indicates weak capital efficiency,70
+RECLTD,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+RECLTD,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+RECLTD,con,CON10,Low return on equity indicates weak capital efficiency,70
+RELIANCE,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+RELIANCE,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+RELIANCE,con,CON10,Low return on equity indicates weak capital efficiency,70
+SBILIFE,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+SBILIFE,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+SBILIFE,con,CON10,Low return on equity indicates weak capital efficiency,70
+SHREECEM,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+SHREECEM,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+SHREECEM,con,CON10,Low return on equity indicates weak capital efficiency,70
+SHRIRAMFIN,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+SHRIRAMFIN,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+SHRIRAMFIN,con,CON10,Low return on equity indicates weak capital efficiency,70
+SIEMENS,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+SIEMENS,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+SIEMENS,con,CON10,Low return on equity indicates weak capital efficiency,70
+SUNPHARMA,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+SUNPHARMA,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+SUNPHARMA,con,CON10,Low return on equity indicates weak capital efficiency,70
+TATACONSUM,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+TATACONSUM,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+TATACONSUM,con,CON10,Low return on equity indicates weak capital efficiency,70
+TATAMOTORS,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+TATAMOTORS,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+TATAMOTORS,con,CON10,Low return on equity indicates weak capital efficiency,70
+TATAPOWER,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+TATAPOWER,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+TATAPOWER,con,CON10,Low return on equity indicates weak capital efficiency,70
+TATASTEEL,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+TATASTEEL,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+TATASTEEL,con,CON10,Low return on equity indicates weak capital efficiency,70
+TCS,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+TCS,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+TCS,con,CON10,Low return on equity indicates weak capital efficiency,70
+TECHM,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+TECHM,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+TECHM,con,CON10,Low return on equity indicates weak capital efficiency,70
+TITAN,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+TITAN,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+TITAN,con,CON10,Low return on equity indicates weak capital efficiency,70
+TORNTPHARM,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+TORNTPHARM,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+TORNTPHARM,con,CON10,Low return on equity indicates weak capital efficiency,70
+TRENT,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+TRENT,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+TRENT,con,CON10,Low return on equity indicates weak capital efficiency,70
+TVSMOTOR,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+TVSMOTOR,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+TVSMOTOR,con,CON10,Low return on equity indicates weak capital efficiency,70
+ULTRACEMCO,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+ULTRACEMCO,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+ULTRACEMCO,con,CON10,Low return on equity indicates weak capital efficiency,70
+UNIONBANK,pro,PRO3,Debt-free balance sheet provides financial flexibility,90
+UNIONBANK,con,CON6,Interest coverage below 1.5x indicates debt servicing risk,85
+UNIONBANK,con,CON10,Low return on equity indicates weak capital efficiency,70

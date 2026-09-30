@@ -1,0 +1,2 @@
+company_id,company_name,sector,P/E,P/B,EV/EBITDA,FCF_yield_pct,5yr_median_PE,PE_vs_sector_median_pct,flag
+3,Infosys,IT,24,4,16,4.1,42.0,-42.857142857142854,Discount

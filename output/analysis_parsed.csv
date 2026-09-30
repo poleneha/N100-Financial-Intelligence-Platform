@@ -1,0 +1,4 @@
+company_id,metric_type,period_years,value_pct
+1,compounded_sales_growth,10,21.0
+2,compounded_sales_growth,5,15.0
+3,compounded_sales_growth,8,12.0

@@ -1,0 +1,15 @@
+pandas
+numpy
+openpyxl
+streamlit
+plotly
+matplotlib
+reportlab
+scikit-learn
+seaborn
+jupyter
+notebook
+xlsxwriter
+sqlalchemy
+pillow
+pyyaml

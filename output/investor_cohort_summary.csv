@@ -1,0 +1,4 @@
+investor_cohort,company_count,average_score,median_score,average_return_pct,average_volatility_pct,average_continuity_pct
+Large Cap,64,77.85296875,78.215,13.79904773427219,20.889362603703773,100.0
+Mid Cap,26,78.2073076923077,80.0,11.298469561039694,20.498152728932308,100.0
+Small Cap,2,82.305,82.305,14.608403921614455,18.3798456448373,100.0

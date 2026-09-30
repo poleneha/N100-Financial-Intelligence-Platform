@@ -1,0 +1,26 @@
+Sprint 2 Ratio Engine Log
+========================
+
+Negative equity handled.
+Category: formula discrepancy
+Resolution: ROE returned None when equity + reserves <= 0.
+
+Zero denominator handled.
+Category: formula discrepancy
+Resolution: Ratio returned None to avoid division by zero.
+
+Turnaround cases handled.
+Category: formula discrepancy
+Resolution: CAGR returned None with TURNAROUND flag.
+
+Decline to loss handled.
+Category: formula discrepancy
+Resolution: CAGR returned None with DECLINE_TO_LOSS flag.
+
+Zero base CAGR handled.
+Category: formula discrepancy
+Resolution: CAGR returned None with ZERO_BASE flag.
+
+Both negative values handled.
+Category: formula discrepancy
+Resolution: CAGR returned None with BOTH_NEGATIVE flag.
