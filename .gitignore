@@ -1,0 +1,16 @@
+﻿__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.vscode/
+.pytest_cache/
+*.log
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Temporary files
+*.tmp
